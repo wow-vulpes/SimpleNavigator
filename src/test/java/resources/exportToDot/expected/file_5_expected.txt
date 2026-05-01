@@ -1,0 +1,3 @@
+digraph graphname {
+v2 -> v0;
+}
